@@ -1,0 +1,104 @@
+地理信息研究关键词统计报告
+==================================================
+
+关键词频率排名：
+Geography: 55
+Computer science: 45
+Environmental science: 40
+Climate change: 33
+Business: 29
+Environmental planning: 26
+Remote sensing: 23
+Environmental resource management: 21
+Agriculture: 21
+Vegetation (pathology): 19
+Urban planning: 19
+Land use: 18
+Population: 14
+Geology: 14
+Artificial intelligence: 13
+Geographic information system: 13
+Sustainable development: 13
+Urbanization: 13
+Sustainability: 12
+Sociology: 12
+Engineering: 10
+Geospatial analysis: 9
+Land cover: 9
+Global warming: 9
+Transport engineering: 9
+Satellite: 8
+Hydrology (agriculture): 8
+Ecology: 8
+Economic growth: 8
+Normalized Difference Vegetation Index: 7
+Mathematics: 7
+Psychology: 7
+Physical geography: 7
+Metropolitan area: 7
+Tourism: 7
+Economics: 7
+Climatology: 6
+Biodiversity: 6
+Machine learning: 6
+Process (computing): 6
+Archaeology: 6
+Spatial distribution: 6
+Distribution (mathematics): 6
+Political science: 6
+Work (physics): 6
+Resilience (materials science): 6
+Thematic analysis: 6
+Feature (linguistics): 5
+Groundwater: 5
+Stakeholder: 5
+Risk analysis (engineering): 5
+Resource (disambiguation): 5
+Context (archaeology): 5
+Drainage: 5
+Spatial analysis: 5
+Information system: 5
+Plan (archaeology): 5
+Environmental engineering: 5
+Process management: 5
+Adaptation (eye): 5
+Public health: 5
+Thematic map: 4
+Multispectral image: 4
+Habitat: 4
+Computer vision: 4
+Scale (ratio): 4
+Visualization: 4
+Remote sensing application: 4
+Identification (biology): 4
+Citizen journalism: 4
+Ecosystem: 4
+Systems engineering: 4
+Statistics: 4
+Cartography: 4
+Cultural heritage: 4
+Digital elevation model: 4
+Zoning: 4
+Flood myth: 4
+Biology: 4
+Knowledge management: 4
+Rainwater harvesting: 4
+Water resource management: 4
+Environmental health: 4
+Qualitative research: 4
+Quality (philosophy): 4
+Medicine: 4
+Natural resource economics: 4
+Telecommunications: 3
+The Internet: 3
+Mean squared error: 3
+Predictive modelling: 3
+Precipitation: 3
+Robustness (evolution): 3
+Benchmark (surveying): 3
+Arid: 3
+Local government: 3
+Synthetic aperture radar: 3
+Forestry: 3
+Green infrastructure: 3
+Pattern recognition (psychology): 3
